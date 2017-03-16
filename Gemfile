@@ -22,3 +22,5 @@ gem "nokogiri"
 gem 'rack-contrib', '1.4.0'
 
 gem 'puma'
+
+gem 'heroku', '~> 3.43', '>= 3.43.9999'
