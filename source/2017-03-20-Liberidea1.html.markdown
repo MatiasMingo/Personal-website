@@ -1,11 +1,11 @@
 ---
-title: A new conception of economics
+title: Blog Nº1
 date: 2017-03-20 12:03 UTC
 tags:
 ---
 
-<h1>A New Conception of Economics</h1>
+<h2><b>A New Conception of the Economy</b></h2>
 
-<p>Our urge as human beings to represent value the best way we can achieve has been an activity and an exponential problem through-out the many years of our existence as a species. </p>
+<p>I strongly believe that our current economic system has expired and has been expired for at least 10 years. I think that in this day and age we need an economy that adopts the rapidly growing technological advances so that they serve as tools to create and sustain a system that is more efficient, more fare and that includes every singe human being in the benefits this offers. I think we need to digitalize our economy.</p>
 
-<p>Value is an incredibly interesting concept. Value arises from our natural necesity to cuantify the needs we have for certain external resources.</p>
+
