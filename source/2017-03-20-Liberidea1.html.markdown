@@ -13,3 +13,5 @@ tags:
 We will try to achieve this by first outsourcing people and their skills. We will also ask contractors to make payments and transactions through our blockchain system. </p>
 
 <p>Other than the huge road we need to walk to achieve our goals, one big problem we are going to face in a forseable future is how keep this platform running but in an ethically correct way. If we ever achieve our final goal that is forming an economy within a platform we dont want to actually make a profit from transactions made within our platform, we actually want to try and decipher a system in which the same users of our economy benefit from the money produced by our company. We want to establish a democratic way of managing Liber. We want to establish an independent digitalized nation. All of this using blockchain technology.</p>
+
+<p>For more information about my project please check the Liber website <a href="http://liber.life">www.liber.life</a></p>
