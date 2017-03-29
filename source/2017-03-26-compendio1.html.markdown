@@ -1,17 +1,17 @@
 ---
-title: Blog Nº3
+title: Nº3
 date: 2017-03-26 23:09 UTC
 tags:
 ---
-
+<h2 class="center"><b>Mental Compendium #1</b></h2>
 <h2><b>The problem with absence and existence</b></h2>
 
-<p>The absence of absence exists, but absence doesnt.
+<p>The absence of absence exists, but absence doesn't.
 "Absence is absent because absence is absent because absence is absent..."</p>
 <p>Absence is relative to existence.</p>
 <p>Existence implies absence and absence implies existence so existence exists only and only if absence exists</p>
 <p>The existence of absence is necessary for existence to exist. "Existence exists because absence exists because existence exists because absence exists..."</p>
-<p>But absence doesnt exist.</p>
+<p>But absence doesn't exist.</p>
 <p>The existence of existence is absent, but existence isn't.</p>
-<p>¿ absence = existence ?</p>
+<p>¿ absence = existence?</p>
 

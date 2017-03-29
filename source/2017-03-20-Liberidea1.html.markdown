@@ -1,17 +1,20 @@
 ---
-title: Blog Nº1
+title: Nº1
 date: 2017-03-20 12:03 UTC
 tags:
 ---
 
 <h2><b>A New Conception of the Economy</b></h2>
 
-<p>I strongly believe that our current economic system has expired and has been expired for at least 10 years. I think that in this day and age we need an economy that adopts the rapidly growing technological advances so that they serve us as tools to create and sustain a system that is more efficient, more fair and that includes every singe human being in the benefits it offers. I think we need to digitalize our economy.</p>
+<p>I strongly believe that our current economic system has expired and has been expired for at least 10 years. I think that in this day and age we need an economy that adopts the rapidly growing technological advances so that they serve us as tools to create and sustain a system that is more efficient, more fair and that includes every single human being in the benefits it offers. I think we need to digitalize our economy.
+</p>
 
 <img src="/images/Liberlogo2.png" alt="" id="liberlogo-blog1">
-<p>Liber is the new startup im founding. In Liber our goal is to create a digitalized economic system through blockchain technology. We as company want to eliminate any third party involvement on transactions and also provide a secure environment to sustain an economic system such as this one.
-We will try to achieve this by first outsourcing people and their skills. We will also ask contractors to make payments and transactions through our blockchain system. </p>
+<p>Liber is the new startup I’m founding. In Liber our goal is to create a digitalized economic system through blockchain technology. We as company want to eliminate any third party involvement on transactions and also provide a secure environment to sustain an economic system such as this one. We will try to achieve this by first outsourcing people and their skills. We will also ask contractors to make payments and transactions through our blockchain system.
+ </p>
 
-<p>Other than the huge road we need to walk to achieve our goals, one big problem we are going to face in a forseable future is how keep this platform running but in an ethically correct way. If we ever achieve our final goal that is forming an economy within a platform we dont want to actually make a profit from transactions made within our platform, we actually want to try and decipher a system in which the same users of our economy benefit from the money produced by our company. We want to establish a democratic way of managing Liber. We want to establish an independent digitalized nation. All of this using blockchain technology.</p>
+<p>Other than the huge road we need to walk to achieve our goals, one big problem we are going to face in a foreseeable future is how keep this platform running but in an ethically correct way. If we ever achieve our final goal that is forming an economy within a platform we don’t want to actually make a profit from transactions made within our platform, we actually want to try and decipher a system in which the same users of our economy benefit from the money produced by our company. We want to establish a democratic way of managing Liber. We want to establish an independent digitalized nation. All of this using blockchain technology.
+</p>
 
-<p>For more information about my project please check the Liber website <a href="http://liber.life">www.liber.life</a></p>
+<p>For more information about my project please check the Liber website <a href="http://liber.life">www.liber.life</a>.</p>
+<p>I will be posting more of my ideas and updates about this startup constantly on this website.</p>
